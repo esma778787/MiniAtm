@@ -1,0 +1,8 @@
+C:\C#Dersleri\mini atm yap\bin\Debug\mini atm yap.exe.config
+C:\C#Dersleri\mini atm yap\bin\Debug\mini atm yap.exe
+C:\C#Dersleri\mini atm yap\bin\Debug\mini atm yap.pdb
+C:\C#Dersleri\mini atm yap\obj\Debug\mini atm yap.csproj.AssemblyReference.cache
+C:\C#Dersleri\mini atm yap\obj\Debug\mini atm yap.csproj.SuggestedBindingRedirects.cache
+C:\C#Dersleri\mini atm yap\obj\Debug\mini atm yap.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\mini atm yap\obj\Debug\mini atm yap.exe
+C:\C#Dersleri\mini atm yap\obj\Debug\mini atm yap.pdb
